@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/Sale.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/test/integration/ItemRegistryTest.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/RevenueObserver.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/test/integration/PrinterTest.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/test/model/SaleTest.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/ItemRegistry.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/InvalidPaymentException.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/ItemRegistryException.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/AccountingSystem.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/test/controller/ControllerTest.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/ItemDTO.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/view/View.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/ChangeInformation.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/controller/Controller.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/Printer.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/view/TotalRevenueView.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/ItemInformation.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/RegistryCreator.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/test/model/ReceiptTest.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/ItemNotFoundException.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/TaxInformation.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/util/LogHandler.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/startup/Main.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/model/Receipt.java</file>
+            <file>file:/C:/Users/Robert%20Lillnor/Documents/netbeans/process-sale-master/ProcessSale/src/integration/InventorySystem.java</file>
+        </group>
+    </open-files>
+</project-private>
